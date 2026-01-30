@@ -7,3 +7,4 @@ This is a practice repository for learning Git.
 
 ## New Section
 This section was added during Lesson 9.
+And this line was added after staging.
