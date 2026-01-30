@@ -25,3 +25,7 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Ignore temp only in src
+/src/temp/
+secrets.txt
