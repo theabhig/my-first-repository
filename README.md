@@ -12,3 +12,4 @@ And this line was added after staging.
 - Pushed to GitHub!
 
 - Edited on GitHub directly
+- Local change after pull
