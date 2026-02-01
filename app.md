@@ -1,5 +1,4 @@
 # My Application
 
-A demonstration application.
-
+An example application.
 Version: 1.0.0
