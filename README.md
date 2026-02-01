@@ -10,3 +10,5 @@ This section was added during Lesson 9.
 And this line was added after staging.
 ## Recent Updates
 - Pushed to GitHub!
+
+- Edited on GitHub directly
