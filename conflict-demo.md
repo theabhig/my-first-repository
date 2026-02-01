@@ -1,3 +1,3 @@
 # Configuration
-timeout: 5000
+timeout: 2000
 retries: 3
